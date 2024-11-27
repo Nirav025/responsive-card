@@ -98,11 +98,19 @@ body {
 @media (max-width: 1200px) {
     .card-list .card-item {
         padding: 15px;
+        
+    }
+    
+    .card-list{
+        background: linear-gradient(to right, #d1e8ff 70%, #2968a8);
     }
 }
+
+
 
 @media screen and (max-width: 980px) {
     .card-list {
         margin: 0 auto;
+        background: linear-gradient(to right, #d6f8d6 70%, #B22485);
     }
 }
